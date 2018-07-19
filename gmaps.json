@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "Baluarte",
+    "name": "Baluarte Watch Tower",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/5.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.621185,
-    "lng": 120.317510
+    "lat": 16.856736,
+    "lng": 120.372743
   },
   {
     "id": 211,
