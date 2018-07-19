@@ -2,13 +2,22 @@
   {
     "id": 145,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/2.JPG",
     "priceCurrency": "₱",
     "price": 20,
     "lat": 16.643372,
     "lng": 120.448705
   },
   {
+    "id": 205,
+    "name": "Bahay Na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/1.JPG",
+    "price": 20.00,
+    "priceCurrency": "₱",
+    "lat": 16.847255,
+    "lng": 120.351556
+  },
+   {
     "id": 148,
     "name": "San Juan Surf Resort",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/1.JPG",
@@ -25,15 +34,6 @@
     "price": 100.00,
     "lat": 16.609093,
     "lng": 120.286326
-  },
-  {
-    "id": 205,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/1.JPG",
-    "price": 20.00,
-    "priceCurrency": "₱",
-    "lat": 16.847255,
-    "lng": 120.351556
   },
   {
     "id": 210,
