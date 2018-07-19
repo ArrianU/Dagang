@@ -19,7 +19,7 @@
   },
    {
     "id": 148,
-    "name": "San Juan Surf Resort",
+    "name": "Grapes Farm",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/1.JPG",
     "priceCurrency": "₱",
     "price": 0,
@@ -28,7 +28,7 @@
   },
   {
     "id": 201,
-    "name": "Thunderbird Resorts Poro Point",
+    "name": "Halo Halo de Iloko",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
     "priceCurrency": "₱",
     "price": 100.00,
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Ma-Cho Temple",
+    "name": "Baluarte",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
     "price": 0,
     "priceCurrency": "₱",
