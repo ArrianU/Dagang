@@ -45,6 +45,51 @@
     "lng": 120.372743
   },
   {
+    "id": 212,
+    "name": "Riverfarm",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/a.jpg",
+    "priceCurrency": "₱",
+    "price": 0,
+    "lat": 16.710779,
+    "lng": 120.343457
+  },
+  {
+    "id": 213,
+    "name": "Thunderbird",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/b.jpg",
+    "priceCurrency": "₱",
+    "price": 0,
+    "lat": 16.612373,
+    "lng": 120.284572
+  },
+  {
+    "id": 214,
+    "name": "Lighthouse",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/c.jpg",
+    "priceCurrency": "₱",
+    "price": 0,
+    "lat": 16.614871,
+    "lng": 120.280623
+  },
+  {
+    "id": 215,
+    "name": "Ma-cho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/d.jpg",
+    "priceCurrency": "₱",
+    "price": 0,
+    "lat": 16.621227,
+    "lng": 120.317424
+  },
+  {
+    "id": 216,
+    "name": "San Juan Beach",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/e.JPG",
+    "priceCurrency": "₱",
+    "price": 0,
+    "lat": 16.656958,
+    "lng": 120.320822
+  },
+  {
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/6.png",
@@ -53,5 +98,7 @@
     "lat": 16.712513,
     "lng": 120.369558
   }
+  
+  
   
 ]
