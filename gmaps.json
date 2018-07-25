@@ -73,21 +73,21 @@
   },
   {
     "id": 215,
-    "name": "Ma-cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/d.jpg",
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f9.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.621227,
-    "lng": 120.317424
+    "lat": 11.967450, 
+    "lng": 121.919848
   },
   {
     "id": 216,
-    "name": "San Juan Beach",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/e.JPG",
+    "name": "Pagudpud",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f10.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.656958,
-    "lng": 120.320822
+    "lat": 18.532683, 
+    "lng": 120.751727
   },
   {
     "id": 211,
@@ -97,6 +97,15 @@
     "priceCurrency": "₱",
     "lat": 16.712513,
     "lng": 120.369558
+  },
+  {
+    "id": 225,
+    "name": "Venice Grand Canal",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f11.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 14.533545, 
+    "lng": 121.051141
   }
   
   
