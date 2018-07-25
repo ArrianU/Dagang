@@ -1,75 +1,75 @@
 [
   {
     "id": 205,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/1.jpg",
+    "name": "Vigan City",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f1.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.847255,
-    "lng": 120.351556
+    "lat": 16.181870, 
+    "lng": 120.046843
   },
   {
     "id": 145,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/2.JPG",
+    "name": "Hundred Islands",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f2.JPG",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.643372,
-    "lng": 120.448705
+    "lat": 17.571110, 
+    "lng": 120.388469
   },
    {
     "id": 148,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/3.jpg",
+    "name": "Mt. Samat",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f3.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.461035,
-    "lng": 120.333926
+    "lat": 14.606000, 
+    "lng": 120.508599
   },
   {
     "id": 201,
-    "name": "Halo Halo de Iloko",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/4.jpg",
+    "name": "Vitalis Villas",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f4.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.617284,
-    "lng": 120.319943
+    "lat": 17.288352, 
+    "lng": 120.428160
   },
   {
     "id": 210,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/5.jpg",
+    "name": "Chocolate Hills",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f5.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.856736,
-    "lng": 120.372743
+    "lat": 9.829411, 
+    "lng": 124.139826
   },
   {
     "id": 212,
-    "name": "Riverfarm",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/a.jpg",
+    "name": "Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f6.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.710779,
-    "lng": 120.343457
+    "lat": 9.816463, 
+    "lng": 124.347282
   },
   {
     "id": 213,
-    "name": "Thunderbird",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/b.jpg",
+    "name": "Mayon Volcano",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f7.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.612373,
-    "lng": 120.284572
+    "lat": 13.249984, 
+    "lng": 123.691184
   },
   {
     "id": 214,
-    "name": "Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/c.jpg",
+    "name": "Burnham Park",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f8.jpg",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.614871,
-    "lng": 120.280623
+    "lat": 16.409274, 
+    "lng": 120.594953
   },
   {
     "id": 215,
