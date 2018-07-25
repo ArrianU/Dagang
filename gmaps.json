@@ -3,8 +3,8 @@
     "id": 205,
     "name": "Vigan City",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f1.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 127,
+    "priceCurrency": "km",
     "lat": 16.181870, 
     "lng": 120.046843
   },
@@ -12,8 +12,8 @@
     "id": 145,
     "name": "Hundred Islands",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f2.JPG",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 145,
     "lat": 17.571110, 
     "lng": 120.388469
   },
@@ -21,8 +21,8 @@
     "id": 148,
     "name": "Mt. Samat",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f3.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 278,
     "lat": 14.606000, 
     "lng": 120.508599
   },
@@ -30,8 +30,8 @@
     "id": 201,
     "name": "Vitalis Villas",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f4.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 79.6,
     "lat": 17.288352, 
     "lng": 120.428160
   },
@@ -39,8 +39,8 @@
     "id": 210,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f5.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 1211,
+    "priceCurrency": "km",
     "lat": 9.829411, 
     "lng": 124.139826
   },
@@ -48,8 +48,8 @@
     "id": 212,
     "name": "Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f6.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 1240,
     "lat": 9.816463, 
     "lng": 124.347282
   },
@@ -57,8 +57,8 @@
     "id": 213,
     "name": "Mayon Volcano",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f7.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 777,
     "lat": 13.249984, 
     "lng": 123.691184
   },
@@ -66,8 +66,8 @@
     "id": 214,
     "name": "Burnham Park",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f8.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 73.2,
     "lat": 16.409274, 
     "lng": 120.594953
   },
@@ -75,17 +75,17 @@
     "id": 215,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f9.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 727,
     "lat": 11.967450, 
     "lng": 121.919848
   },
   {
     "id": 216,
-    "name": "Pagudpud",
+    "name": "Bangui Wind Mills",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f10.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "km",
+    "price": 265,
     "lat": 18.532683, 
     "lng": 120.751727
   },
@@ -94,7 +94,7 @@
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/6.png",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.712513,
     "lng": 120.369558
   },
@@ -102,12 +102,20 @@
     "id": 225,
     "name": "Venice Grand Canal",
     "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f11.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 296,
+    "priceCurrency": "km",
     "lat": 14.533545, 
     "lng": 121.051141
+  },
+  {
+    "id": 225,
+    "name": "Hannahs Beach Resort",
+    "imageUrl": "https://raw.githubusercontent.com/ArrianU/Dagang/master/f12.jpg",
+    "price": 294,
+    "priceCurrency": "km",
+    "lat": 18.625021, 
+    "lng": 120.857279 
   }
-  
   
   
 ]
